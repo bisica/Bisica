@@ -9,9 +9,9 @@ It is inspired by [Catppuccin](https://catppuccin.com) and IBM's
 
 ## Philosophy
 
-* **Iridescence**
-* **Distraction-free**
-* **Consistency**
+- **Iridescence** of bizmuth
+- **Self-sustaining** of carbon
+- **Consistency** of silicon
 
 ## License
 
