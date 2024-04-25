@@ -4,19 +4,19 @@
 
 ### Bismuth
 
-<img src="docs/Bi.png" alt="Bismuth" width="300" />
+<img src="img/Bi.png" alt="Bismuth" width="300" />
 
 <https://www.atomic-spectra.net/spectrum.php?elem=Bi>
 
 ### Silicon
 
-<img src="docs/Si.png" alt="Silicon" width="300" />
+<img src="img/Si.png" alt="Silicon" width="300" />
 
 <https://www.atomic-spectra.net/spectrum.php?elem=Si>
 
 ### Carbon
 
-<img src="docs/C.png" alt="Carbon" width="300" />
+<img src="img/C.png" alt="Carbon" width="300" />
 
 <https://www.atomic-spectra.net/spectrum.php?elem=C>
 
