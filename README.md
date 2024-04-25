@@ -15,5 +15,12 @@ It is inspired by [Catppuccin](https://catppuccin.com) and IBM's
 
 ## License
 
-Bisica is distributed under the terms of ISC license.
-See [LICENSE](LICENSE) for details.
+Bisica is distributed under the terms of both:
+
+- BSD 3-Clause License  
+  [LICENSE-BSD](LICENSE-BSD) or
+  <https://opensource.org/license/BSD-3-Clause>, and
+  
+- Attribution-ShareAlike 4.0 International  
+  [LICENSE-CC](LICENSE-CC) or
+  <https://creativecommons.org/licenses/by-sa/4.0/legalcode>.
